@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./../assets/logo.png" height="200" style="margin: 0; padding: 0;"/>
+<img src="./../assets/logo.png" height="120" style="margin: 0; padding: 0;"/>
 
 ### Koło naukowe, w którym każdy ma swój kolor
 
@@ -31,7 +31,7 @@ Jesteśmy **KN Kredek**, kołem naukowym dla ludzi, którzy lubią tworzyć. Rob
 
 ## Z czym pracujemy
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
