@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖍️ KN Kredek
+<img src="./../assets/logo.png" height="200" style="margin: 0; padding: 0;"/>
 
 ### Koło naukowe, w którym każdy ma swój kolor
 
@@ -12,7 +12,6 @@ Programujemy, projektujemy i uczymy się razem, od pierwszego commita do wdroże
 
 </div>
 
----
 
 ## Cześć!
 
@@ -29,7 +28,6 @@ Jesteśmy **KN Kredek**, kołem naukowym dla ludzi, którzy lubią tworzyć. Rob
 
 > 💡 Jesteś w kole i masz pomysł na projekt? Otwórz issue albo podziel się nim na spotkaniu!
 -->
----
 
 ## Z czym pracujemy
 
@@ -43,7 +41,6 @@ Jesteśmy **KN Kredek**, kołem naukowym dla ludzi, którzy lubią tworzyć. Rob
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
----
 
 ## Jak dołączyć?
 
@@ -55,7 +52,6 @@ Do koła dołącza się przez **rekrutację**. Informacje o jej terminie i zasad
 4. **Po przyjęciu** dostaniesz dostęp do naszego serwera, gdzie wybierzesz kolor swojej kredki 🖍️
 5. **Dołączysz do organizacji na GitHubie** i trafisz do zespołu projektowego 🚀
 
----
 
 ## Jak współtworzyć projekty
 
@@ -75,7 +71,6 @@ Do koła dołącza się przez **rekrutację**. Informacje o jej terminie i zasad
 - **Nie pushujemy bezpośrednio na `main`**
 - **Kod piszemy prosto i czytelnie**, tak żeby nowa osoba w projekcie szybko się odnalazła
 
----
 
 ## 📬 Kontakt
 
@@ -87,6 +82,6 @@ Do koła dołącza się przez **rekrutację**. Informacje o jej terminie i zasad
 
 <div align="center">
 
-Zrobione z 🖍️ przez członków **KN Kredek**
+Narysowane 🖍️ przez członków **KN Kredek**
 
 </div>
