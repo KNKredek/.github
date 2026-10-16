@@ -44,13 +44,13 @@ Jesteśmy **KN Kredek**, kołem naukowym dla ludzi, którzy lubią tworzyć. Rob
 
 ## Jak dołączyć?
 
-Do koła dołącza się przez **rekrutację**. Informacje o jej terminie i zasadach publikujemy na [naszej stronie](LINK_DO_STRONY) i w mediach społecznościowych.
+Do koła dołącza się przez **rekrutację**. Informacje o jej terminie i zasadach publikujemy na [Facebooku](https://www.facebook.com/KNKredek/).
 
-1. **Śledź ogłoszenia o rekrutacji** 📢
-2. **Wypełnij formularz** rekrutacyjny ✍️
-3. **Przejdź etap rekrutacji**, czyli porozmawiaj z nami i pokaż, co Cię kręci 💬
-4. **Po przyjęciu** dostaniesz dostęp do naszego serwera, gdzie wybierzesz kolor swojej kredki 🖍️
-5. **Dołączysz do organizacji na GitHubie** i trafisz do zespołu projektowego 🚀
+1. **Śledź ogłoszenia o rekrutacji** 
+2. **Wypełnij formularz** rekrutacyjny 
+3. **Przejdź etap rekrutacji**, czyli porozmawiaj z nami i pokaż, co Cię kręci 
+4. **Po przyjęciu** dostaniesz dostęp do naszego serwera, gdzie wybierzesz kolor swojej kredki 
+5. **Dołączysz do organizacji na GitHubie** i trafisz do zespołu projektowego 
 
 
 ## Jak współtworzyć projekty
@@ -72,11 +72,11 @@ Do koła dołącza się przez **rekrutację**. Informacje o jej terminie i zasad
 - **Kod piszemy prosto i czytelnie**, tak żeby nowa osoba w projekcie szybko się odnalazła
 
 
-## 📬 Kontakt
+## Kontakt
 
-- 🌐 Strona: [LINK_DO_STRONY](LINK_DO_STRONY)
-- ✉️ E-mail: `MAIL_KOLA`
-- 📱 Social media: [LINK_DO_SOCIALI](LINK_DO_SOCIALI)
+- 🌐 Strona: [Koło Naukowe "Kredek"](https://kredek.dce.pwr.edu.pl/)
+- ✉️ E-mail: [knkredek@gmail.com](mailto:knkredek@gmail.com)
+- 📱 Facebook: [facebook.com/KNKredek/](https://www.facebook.com/KNKredek/)
 
 ---
 
